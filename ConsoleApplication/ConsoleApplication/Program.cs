@@ -16,11 +16,11 @@ namespace ConsoleApplication
             dagger.AttackSpeed = 0.15f;
 
             Item rabadon = new Item(); 
-       
             rabadon.AbilityPower = 120;
 
             Item voidstaf = new Item();
             voidstaf.AbilityPower = 80;
+
             Item mobility = new Item();
             mobility.MovementSpeed= 25;
 
