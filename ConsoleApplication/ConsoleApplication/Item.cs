@@ -11,5 +11,8 @@ namespace ConsoleApplication
         public int AbilityPower;
         public int MovementSpeed;
         public float AttackSpeed;
+        public float CriticalChance;
+        public int HealthPoints;
+        public int Armor;
     }
 }
