@@ -8,6 +8,8 @@ namespace ConsoleApplication
     class Item
     {
         public int AttackDamage;
+        public int AbilityPower;
+        public int MovementSpeed;
         public float AttackSpeed;
     }
 }
